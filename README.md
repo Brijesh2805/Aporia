@@ -14,3 +14,14 @@
 - froggy 5/24
 - chreos : log(#2)
 - will create css.md 
+
+# Day -3 : 12th oct 
+- P0 started : HTML done ( havent done anything in this)
+- 0 anki cards added
+- froggy 5/24 (remained where it was)
+- chreos : log(#3)
+- Did not created css pattern md 
+- didn't started JS exercise as per the schedule also not created js exercise folder
+- Failed to commit today due to assignments and file
+- but a failure is a failure thats comes with consequences
+- will cover all left work till now 
