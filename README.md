@@ -25,3 +25,12 @@
 - Failed to commit today due to assignments and file
 - but a failure is a failure thats comes with consequences
 - will cover all left work till now 
+
+# Day-4 : 13th oct 
+- Js exercise one done 
+- haven't pushed anything into js exercise
+- froggy 12/24
+- 0 anki cards added
+- still not started css till
+- chreos : log(#4)
+- almost lack 2 days work on 13th of oct
