@@ -34,3 +34,9 @@
 - still not started css till
 - chreos : log(#4)
 - almost lack 2 days work on 13th of oct
+
+# Day-5 : 14th oct 
+- Did nothing today a complete failure 
+- chain of reaction of procastination and mood swings
+- chreos : log(#5)
+- wrap up all the work till 15th of oct tomorrow
