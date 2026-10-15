@@ -12,6 +12,7 @@
  justify-content : value; //align -horizontally
  align-items: value; //align-vertically
  gap : value; // space between items;
- margin: value; // 2 element ke border ke bich ki spacing
+ margin: value; // 2 border ke bich ki spacing
  padding: value; // element or content ke bich ki spacing
+ box sizing: box-order; element ko or content ko given space se overflow hone se bachata hai
 

@@ -43,4 +43,4 @@
 
 # Day -6 : 15th oct
 - P0 final: Google homepage done, screenshot added
-![P0 Google homepage](P0-Google/screenshot.png)
+![P0 Google homepage](P0-Google/Screenshot.png)
