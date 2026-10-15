@@ -1,0 +1,167 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif
+}
+
+main {
+  flex: 1;
+}
+
+#header {
+  height: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.Nav-bar {
+  height: 90%;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  
+}
+
+.link-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 15px;
+  
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding-right: 10px;
+}
+
+.logo-container button {
+  width: 70px;
+  height: 30px;
+  border-radius: 18px;
+  background-color: transparent;
+  border: 1px solid black;
+}
+
+.Nav-links {
+  color: rgb(38, 35, 35);
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Arial, sans-serif
+}
+
+.Nav-links:hover {
+  text-decoration: underline;
+}
+
+.Search-section {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+#gImage {
+  width: 400px;
+}
+
+.input_container {
+  position: relative;
+  width: 500px;
+}
+
+.input_container input {
+  width: 100%;
+  height: 40px;
+  box-sizing: border-box;
+  padding: 0px 45px 0px 15px;
+  border-radius: 25px;
+  border: 1px solid #dfe1e5;
+  outline: blue;
+}
+
+.input_container input:hover
+ {
+  border-color: transparent;
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+}
+.input_container input:focus{
+    outline: 2px solid black;
+}
+.search-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.input_btn-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.input_btn-container button {
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #f8f9fa;
+  cursor: pointer;
+  background-color: #f8f9fa;
+}
+
+.input_btn-container button:hover {
+    border: 1px solid black;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+
+
+}
+.footer-container {
+  min-height: 40px;
+  border-top: 1px solid #dadce0;
+}
+.Footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 20px;
+}
+
+.footer-group {
+  display: flex;
+  gap: 20px;
+}
+
+.Ftr-links {
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: Arial, sans-serif
+}
+
+.Ftr-links:hover{
+    text-decoration: underline;
+}

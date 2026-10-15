@@ -40,3 +40,7 @@
 - chain of reaction of procastination and mood swings
 - chreos : log(#5)
 - wrap up all the work till 15th of oct tomorrow
+
+# Day -6 : 15th oct
+- P0 final: Google homepage done, screenshot added
+![P0 Google homepage](P0-Google/screenshot.png)
