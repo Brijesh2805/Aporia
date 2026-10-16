@@ -41,10 +41,19 @@
 - chreos : log(#5)
 - wrap up all the work till 15th of oct tomorrow
 
-# Day -6 : 15th oct
+# Day-6 : 15th oct
 - P0 final: Google homepage done, screenshot added
 ![P0 Google homepage](P0-Google/Screenshot.png)
 - Did 15 question out of 30 of day1.js
 - started P1-Netflix - completed header
 - chreos : log(#6)
 - did some progress today fr.
+
+# Day-7 : 16th oct 
+- P1-Netflix completed 
+- Did remaining 15 questions of 30 ques of day1.js (it was fun tbh)
+- will learn more css property i just see and just typed i understand meaning of css property but still dont know when and where what use will learn with time 
+- chreos : log(#7)
+- still lack almost 4 days of js exercised cause this day1 was on 12th oct and today is 16 so
+- feels satisfied today no shit bruh
+- will tomorrow see what happens 
