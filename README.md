@@ -57,3 +57,10 @@
 - still lack almost 4 days of js exercised cause this day1 was on 12th oct and today is 16 so
 - feels satisfied today no shit bruh
 - will tomorrow see what happens 
+
+# Day-8 : 17th oct 
+- day2 js completed
+- did nothing else , Bad day fr
+- chreos : log(#8)
+- feels wasted time today ,Totally unproductive
+- tomorrow gonna do epic comeback
