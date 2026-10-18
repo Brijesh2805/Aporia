@@ -196,7 +196,7 @@
 //     //   //method 2 using .includes()
 
 //     if (vowels.includes(string[i])) {
-//       //Iska matlab hai vowels ke kitne member string[i] me hai .
+//       //Iska matlab hai kya vowels me string[i] ki value present hai if yes it return true if not it return false .
 //       console.log("founded vowel", i);
 //     }
 //   }
@@ -265,4 +265,3 @@
 // }
 
 // (fizzbuzz(30));
-
