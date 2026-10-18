@@ -64,3 +64,11 @@
 - chreos : log(#8)
 - feels wasted time today ,Totally unproductive
 - tomorrow gonna do epic comeback
+
+# Day-9 : 18th oct 
+- learned array in js and half of objects
+- i dont know today i needed to complete array and js question which already behind from schedule for 3 days 
+- this week ngl gone below average , unable to complete task om time
+- next week lets see how much i learn 
+- chreos : log(#9)
+- Quote of the week is :- " You need to stand your ground no matter how pathetic you are! "
