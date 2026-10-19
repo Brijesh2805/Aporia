@@ -72,3 +72,10 @@
 - next week lets see how much i learn 
 - chreos : log(#9)
 - Quote of the week is :- " You need to stand your ground no matter how pathetic you are! "
+
+# Day-10 : 19th oct 
+- completed objects 
+- started little DOM
+- learned more about for of loop and handling array
+- chreos  : log(#10)
+- not a productive day
