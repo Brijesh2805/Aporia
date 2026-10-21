@@ -98,3 +98,12 @@
 - chreos : log(#10)
 - 5 bad days in a row WOW
 - “Clarity comes from action, not thought.”
+
+# Day-12 : 21st oct 
+
+- Worst day out of these 6 days , It's like the graph keep going down
+- small let it go, will do tomorrow act turn into whole day waste 
+- promised that i make up everything this week but wasted first 3 days and havent did a single thing
+- chreos : log(#11)
+- I need to chase no one but "mySelf"
+
