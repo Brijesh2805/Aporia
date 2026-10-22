@@ -107,3 +107,7 @@
 - chreos : log(#11)
 - I need to chase no one but "mySelf"
 
+# Da-13 : 22nd oct 
+
+- Added todo skeleton
+- chreos : log(#12)
