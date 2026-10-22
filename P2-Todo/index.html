@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>my tasks. | To-Do App</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+    />
+  </head>
+
+  <body>
+    <div class="todo-shell">
+      <header class="header">
+        <h2>My task</h2>
+        <div class="head-icons">
+          <span class="material-symbols-outlined"> light_mode </span>
+          <span class="material-symbols-outlined"> account_circle </span>
+        </div>
+      </header>
+      <main class="todo-main">
+        <section class="todo-intro">
+          <p>Your day</p>
+          <h1>Get things done</h1>
+          <p>Small steps.Real progress</p>
+        </section>
+        <section class="stats-grid">
+          <div class="stat-card">
+            <p class="stat-label">TOTAL</p>
+            <p class="stat-number" id="total-count">0</p>
+          </div>
+
+          <div class="stat-card">
+            <p class="stat-label">DONE</p>
+            <p class="stat-number" id="completed-count">0</p>
+          </div>
+
+          <div class="stat-card">
+            <p class="stat-label">LEFT</p>
+            <p class="stat-number" id="remaining-count">0</p>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
